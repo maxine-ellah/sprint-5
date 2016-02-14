@@ -13,3 +13,4 @@ for (var number=0; number <100; number++) {
  else 
     console.log(number);
 }
+3. //I couldn't figure this one out  by myself :( //
